@@ -1,0 +1,28 @@
+name: Steph Hinds
+favicon: null
+layout_spectrum: 0.596399963600561
+typography_spectrum: 0.9995727099012583
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.08039492042735219
+  lightness: 0.12276680767536163
+  saturation: 0.16031200997531414
+  rhythmicContrast: 0.35763080045580864
+purpose: []
