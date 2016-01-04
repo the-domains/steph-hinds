@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-04T00:49:34.682Z'
-dateModified: '2016-01-04T00:48:51.283Z'
+description: 'Welcome to one of my new ventures. Sharing & Collaborating to help accountants rock the world. '
+datePublished: '2016-01-04T00:53:44.087Z'
+dateModified: '2016-01-04T00:53:30.699Z'
 title: Curated for Accountants by Accountants
 author: []
 authors: []
