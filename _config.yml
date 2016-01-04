@@ -1,6 +1,6 @@
 name: Steph Hinds
 favicon: null
-layout_spectrum: 0.76204
+layout_spectrum: 0.74085
 typography_spectrum: 0.17823
 title: 'Sharing the highs, lows & tips from Growthwise'
 cta:
@@ -24,6 +24,6 @@ color:
     - '#be8864'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0.16031200997531414
+  saturation: 0
   rhythmicContrast: 0.25
 purpose: []
